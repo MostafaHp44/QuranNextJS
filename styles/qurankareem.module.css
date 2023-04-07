@@ -1,0 +1,15 @@
+.ListSourah
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Sourah
+{
+padding: 1em;
+border: 1px wheat solid;
+margin: 1em;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}

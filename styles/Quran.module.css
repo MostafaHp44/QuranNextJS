@@ -1,0 +1,12 @@
+.MainQuran
+{
+    font-family: 'Amiri Quran', serif;
+    display: flex;
+    justify-content: space-around;
+    padding: 5em;
+}
+.cat
+{
+    border: 1px white solid;
+    padding: 1em;
+}

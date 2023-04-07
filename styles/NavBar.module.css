@@ -1,0 +1,26 @@
+.MainNav
+{
+padding: 1em;
+margin: 1em;
+}
+.CatNav
+{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Amiri Quran', serif;
+}
+.ListNav
+{
+    transition: 0.4s;
+    padding: 5px;
+    
+}
+.ListNav:hover
+{
+    background-color: white;
+    color: black;
+    transition: 0.4s;
+}
